@@ -36,9 +36,7 @@ the bearing and gear fault datasets are collected from [Case Western Reserve Uni
 
 
 In this paper, a signal-to-image conversion method [50] is used to transform the original 1D vibration signals into 2D gray images. code: signal-to-image conversion
-[50] L. Wen, X. Li, L. Gao, Y. Zhang, A new convolutional neural network-based data-driven fault diagnosis method, IEEE Trans. Ind. Electron., 65, pp. 5990-5998, July. 
-
-2018. Paper Link: (https://ieeexplore.ieee.org/document/8114247)
+[50] L. Wen, X. Li, L. Gao, Y. Zhang, A new convolutional neural network-based data-driven fault diagnosis method, IEEE Trans. Ind. Electron., 65, pp. 5990-5998, July. 2018. Paper Link: (https://ieeexplore.ieee.org/document/8114247)
 
 
 ## How to use
