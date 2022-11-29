@@ -41,16 +41,15 @@ In this paper, a signal-to-image conversion method [50] is used to transform the
 
 ## How to use
 
-Before begin, please separate the training data of different health states into folders in folder`gray_images\\`.
-the code for training MACGAN and generate gray images is`training and generating.py`, you may also customize the parameters in config part in `training and generating.py`.
-The generated images will be saved in folder`generated images\\`.
+Before begin, please separate the training data of different health states into folders in folder`gray_images\\`. 
+The code for training MACGAN and generate gray images is`training and generating.py`, you may also customize the parameters in config part in `training and generating.py`. The generated images will be saved in folder`generated images\\`.
 
 
 ## Acknowledgement
 
-Our SpectralNormalization code is based on I-Sheng Fang(https://github.com/IShengFang/SpectralNormalizationKeras)
+Our SpectralNormalization code is based on (https://github.com/IShengFang/SpectralNormalizationKeras)
 
 ## Contact
 
-If you have any questions about the codes or would like to communicate about intelligent fault diagnosis, fault detection,please contact us: [liwei2020@hnu.edu.cn](mailto:liwei2020@hnu.edu.cn)
-Mentor E-mail：[hdshao@hnu.edu.cn](
+If you have any questions about the codes or would like to communicate about intelligent fault diagnosis, fault detection, please contact us: [liwei2020@hnu.edu.cn](mailto:liwei2020@hnu.edu.cn)
+Mentor E-mail：[hdshao@hnu.edu.cn](mailto:hdshao@hnu.edu.cn)
